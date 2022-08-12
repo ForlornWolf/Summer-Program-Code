@@ -96,6 +96,7 @@ void loop() {
   ///////////////////////////////////////////////////////////////
 
   // Fail Safe
+  // Disabled as program finished before could test it
   /*
     if (Pressure_1 < 30) {
       Valve_1 = 1;
